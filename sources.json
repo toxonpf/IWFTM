@@ -1,0 +1,5176 @@
+[
+  {
+    "name": "AlterPortal",
+    "url": "https://alterportal.net/",
+    "id": "alterportal.net",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 452,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 28 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ARCOD",
+    "url": "https://arcod.xyz/",
+    "id": "arcod.xyz",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 382,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "arcod",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Тест Massive Attack: 20 результатов"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "BurningTheGround",
+    "url": "https://burningtheground.net/",
+    "id": "burningtheground.net",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 526,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Тест Depeche Mode: 4 результатов"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Classical Music Download",
+    "url": "https://classical-music-download.com/",
+    "id": "classical-music-download.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 530,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Тест Bach: 13 результатов"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Ektoplazm",
+    "url": "https://ektoplazm.com/",
+    "id": "ektoplazm.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 496,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Exystence",
+    "url": "https://exystence.net/",
+    "id": "exystence.net",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 454,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FlacMusic",
+    "url": "https://www.flacmusic.info/",
+    "id": "flacmusic.info",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 445,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "GoldHipHop",
+    "url": "https://goldhiphop.pro/",
+    "id": "goldhiphop.pro",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 489,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 4 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "HQ Hip Hop",
+    "url": "https://94hiphop.com/",
+    "id": "94hiphop.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 489,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 29 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "IntMusic",
+    "url": "https://intmusic.net/",
+    "id": "intmusic.net",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 448,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Khinsider",
+    "url": "https://downloads.khinsider.com/",
+    "id": "downloads.khinsider.com",
+    "section": "Game Soundtracks",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 614,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Тест Mario: 570 результатов"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "LosslessAlbums",
+    "url": "https://losslessalbums.club/",
+    "id": "losslessalbums.club",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 447,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Metal Tracker",
+    "url": "https://en.metal-tracker.com/",
+    "id": "en.metal-tracker.com",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 561,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Music Rider",
+    "url": "https://musicrider.org/",
+    "id": "musicrider.org",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 457,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "PandaCD",
+    "url": "https://pandacd.io/",
+    "id": "pandacd.io",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 566,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 23 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "The 16-bit Audiophile Project",
+    "url": "https://16bap.theclassicgamer.net/",
+    "id": "16bap.theclassicgamer.net",
+    "section": "Game Soundtracks",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 616,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "ThemFire",
+    "url": "https://themfire.pro/",
+    "id": "themfire.pro",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 455,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 2 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TIDAL DL",
+    "url": "https://tidal-dl.pages.dev/",
+    "id": "tidal-dl.pages.dev",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 383,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "tidal",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Тест Massive Attack: 25 результатов"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "We Need Match",
+    "url": "https://we-need-match.ru/",
+    "id": "we-need-match.ru",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 516,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Zophar's Domain",
+    "url": "https://www.zophar.net/music",
+    "id": "zophar.net",
+    "section": "Game Soundtracks",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 615,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "1Techno",
+    "url": "https://1techno.org/",
+    "id": "1techno.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 509,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "1Trance",
+    "url": "https://1trance.org/",
+    "id": "1trance.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 508,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "CitizenFreak",
+    "url": "https://citizenfreak.com/",
+    "id": "citizenfreak.com",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 88,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DeadPulpit",
+    "url": "https://www.deadpulpit.com/",
+    "id": "deadpulpit.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 474,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Dez Flight Underground",
+    "url": "https://dezflight-underground.com/",
+    "id": "dezflight-underground.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 492,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DoujinStyle",
+    "url": "https://doujinstyle.com/",
+    "id": "doujinstyle.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 607,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "DOVA-SYNDROME",
+    "url": "https://dova-s.jp/en/",
+    "id": "dova-s.jp",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 584,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "EDMWaves",
+    "url": "https://edmwaves.org/",
+    "id": "edmwaves.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 501,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "EssentialHouse",
+    "url": "https://essentialhouse.club/",
+    "id": "essentialhouse.club",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 507,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FondSound",
+    "url": "https://www.fondsound.com/",
+    "id": "fondsound.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 539,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "free-stock-music",
+    "url": "https://www.free-stock-music.com/",
+    "id": "free-stock-music.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 580,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "FreeMIDI",
+    "url": "https://freemidi.org/",
+    "id": "freemidi.org",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 482,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "GloryBeats",
+    "url": "https://glorybeats.com/",
+    "id": "glorybeats.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 476,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "HD Mixtapes",
+    "url": "https://hdmixtapes.org/",
+    "id": "hdmixtapes.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 121,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "HipHopa",
+    "url": "https://hiphopa.net/",
+    "id": "hiphopa.net",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 490,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Hipstrumentals",
+    "url": "https://hipstrumentals.com/",
+    "id": "hipstrumentals.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 495,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Hype Machine",
+    "url": "https://hypem.com/popular",
+    "id": "hypem.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 48,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "iPlusFree",
+    "url": "https://www7.iplusfree.org/",
+    "id": "www7.iplusfree.org",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 458,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Irama Nusantara",
+    "url": "https://www.iramanusantara.org/en",
+    "id": "iramanusantara.org",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 89,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "JazznBlues",
+    "url": "https://jazznblues.club/",
+    "id": "jazznblues.club",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 535,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Konserthuset",
+    "url": "https://www.konserthuset.se/en/play/",
+    "id": "konserthuset.se",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 129,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Metalminos",
+    "url": "https://metalminos.net/",
+    "id": "metalminos.net",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 518,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Mixupload",
+    "url": "https://mixupload.com/",
+    "id": "mixupload.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 41,
+    "sections": [
+      "Streaming Sites",
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "mp3db",
+    "url": "https://mp3db.pro/",
+    "id": "mp3db.pro",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 473,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 4 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MyPromoSound",
+    "url": "https://mypromosound.com/",
+    "id": "mypromosound.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 504,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 10 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "nodata",
+    "url": "https://nodata.tv/",
+    "id": "nodata.tv",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 468,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 38 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "OC Remix",
+    "url": "https://ocremix.org/",
+    "id": "ocremix.org",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 620,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "OSAnime",
+    "url": "https://osanime.com/",
+    "id": "osanime.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 603,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "ProgRockVintage",
+    "url": "https://www.progrockvintage.com/",
+    "id": "progrockvintage.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 522,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "PSYFP",
+    "url": "https://psyfp.ucoz.ru/",
+    "id": "psyfp.ucoz.ru",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 502,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 15 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Rapload",
+    "url": "https://rapload.org/",
+    "id": "rapload.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 490,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "SakuraOST",
+    "url": "https://www.sakuraost.com/",
+    "id": "sakuraost.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 603,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "SongsLover",
+    "url": "https://songslover.li/",
+    "id": "songslover.li",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 463,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 5 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "SongStems",
+    "url": "https://songstems.net/",
+    "id": "songstems.net",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 481,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Take Metal",
+    "url": "https://takemetal.org/",
+    "id": "takemetal.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 517,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TechnicalDeathMetal",
+    "url": "https://technicaldeathmetal.org/",
+    "id": "technicaldeathmetal.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 520,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "The 120 Minutes Archive",
+    "url": "https://120minutes.org/",
+    "id": "120minutes.org",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 45,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Tom Lehrer Songs",
+    "url": "https://tomlehrersongs.com/",
+    "id": "tomlehrersongs.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 542,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TopDJMixes",
+    "url": "https://topdjmixes.com/",
+    "id": "topdjmixes.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 118,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TribalMixes",
+    "url": "https://www.tribalmixes.com/",
+    "id": "tribalmixes.com",
+    "section": "Audio Torrenting",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 564,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "UCSB Cylinders",
+    "url": "https://cylinders.library.ucsb.edu/index.php",
+    "id": "cylinders.library.ucsb.edu",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 86,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 6 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Unminus",
+    "url": "https://www.unminus.com/",
+    "id": "unminus.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 578,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "VGMPF",
+    "url": "https://www.vgmpf.com/Wiki/index.php",
+    "id": "vgmpf.com",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 632,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "verified",
+      "message": "Форма поиска отвечает; распознано 1 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "VGMRips",
+    "url": "https://vgmrips.net/packs/",
+    "id": "vgmrips.net",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 618,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Volume",
+    "url": "https://volume.com/",
+    "id": "volume.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 125,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": true,
+    "check": {
+      "status": "empty",
+      "message": "Форма поиска отвечает; распознано 0 ссылок"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Antra Web",
+    "url": "https://antra.hoshi.cfd/",
+    "id": "antra.hoshi.cfd",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 381,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Bandcamp",
+    "url": "https://bandcamp.com/discover/free-music",
+    "id": "bandcamp.com",
+    "section": "Streaming Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 49,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "BlackTorrent",
+    "url": "https://blacktorrent.ru/",
+    "id": "blacktorrent.ru",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 562,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Canna",
+    "url": "https://canna.to/?lang=eng",
+    "id": "canna.to",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 456,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Core Radio",
+    "url": "https://coreradio.online/",
+    "id": "coreradio.online",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 451,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "The read operation timed out"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DiscogC",
+    "url": "https://www.discogc.com/",
+    "id": "discogc.com",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 446,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DoubleDouble",
+    "url": "https://doubledouble.top/",
+    "id": "doubledouble.top",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 380,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FLAC Attack",
+    "url": "https://flacattack.net/",
+    "id": "flacattack.net",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 444,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FlatblackAndClassical",
+    "url": "https://www.flatblackandclassical.com/",
+    "id": "flatblackandclassical.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 531,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FoggyNotion",
+    "url": "https://foggynotion-flac.blogspot.com/",
+    "id": "foggynotion-flac.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 532,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Gangster",
+    "url": "https://gangster.su/",
+    "id": "gangster.su",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 449,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "GetMetal Club",
+    "url": "https://getmetal.club/",
+    "id": "getmetal.club",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 514,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "GetRockMusic",
+    "url": "https://getrockmusic.net/",
+    "id": "getrockmusic.net",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 450,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Internet Archive",
+    "url": "https://archive.org/details/audio",
+    "id": "archive.org",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 465,
+    "sections": [
+      "Download Sites",
+      "Genre Specific Ripping"
+    ],
+    "adapter": "archive",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "iPlayMetal",
+    "url": "https://metal.iplay.ro/",
+    "id": "metal.iplay.ro",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 562,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "KHI-DL",
+    "url": "https://khinsider.squid.wtf/",
+    "id": "khinsider.squid.wtf",
+    "section": "Game Soundtracks",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 614,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "KPopFLAC",
+    "url": "https://www.kpopflac.xyz/",
+    "id": "kpopflac.xyz",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 527,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "KTI Music",
+    "url": "https://ktimusic.blogspot.com/",
+    "id": "ktimusic.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 497,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Lossless Music Download",
+    "url": "https://flac.music.hi.cn/",
+    "id": "flac.music.hi.cn",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 390,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 468: unknow"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Lossless-Music",
+    "url": "https://lossless-music.org/",
+    "id": "lossless-music.org",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 444,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "lucida",
+    "url": "https://lucida.to/",
+    "id": "lucida.to",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 378,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Monochrome",
+    "url": "https://monochrome.tf/",
+    "id": "monochrome.tf",
+    "section": "Streaming Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 31,
+    "sections": [
+      "Streaming Sites",
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Monochrome · if-it-runs-ship-it.lol",
+    "url": "https://if-it-runs-ship-it.lol/",
+    "id": "if-it-runs-ship-it.lol",
+    "section": "Streaming Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 31,
+    "sections": [
+      "Streaming Sites",
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Monochrome · lossless.wtf",
+    "url": "https://lossless.wtf",
+    "id": "lossless.wtf",
+    "section": "Streaming Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 31,
+    "sections": [
+      "Streaming Sites",
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Monochrome · monochrome.samidy.com",
+    "url": "https://monochrome.samidy.com/",
+    "id": "monochrome.samidy.com",
+    "section": "Streaming Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 31,
+    "sections": [
+      "Streaming Sites",
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Monochrome · monochromemusic.pages.dev",
+    "url": "https://monochromemusic.pages.dev/",
+    "id": "monochromemusic.pages.dev",
+    "section": "Streaming Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 31,
+    "sections": [
+      "Streaming Sites",
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MusicRepublic",
+    "url": "https://music-republic-world-traditional.blogspot.com/",
+    "id": "music-republic-world-traditional.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 537,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "New-Team",
+    "url": "https://new-team.org/",
+    "id": "new-team.org",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 555,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Nuclear Holocaust",
+    "url": "https://nuclear-holocaust.blogspot.com/",
+    "id": "nuclear-holocaust.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 515,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Orpheus",
+    "url": "https://orpheus.network/",
+    "id": "orpheus.network",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 556,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ShareMania",
+    "url": "https://sharemania.us/",
+    "id": "sharemania.us",
+    "section": "Download Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 453,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "squid.wtf",
+    "url": "https://squid.wtf/",
+    "id": "squid.wtf",
+    "section": "Audio Ripping Sites",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 392,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "The T-SQUARE Plaza",
+    "url": "https://tsquareplaza.blogspot.com/",
+    "id": "tsquareplaza.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 534,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TPB Music",
+    "url": "https://thepiratebay.org/search.php?q=top100:100",
+    "id": "thepiratebay.org",
+    "section": "Audio Torrenting",
+    "flac": true,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 559,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "1Gabba",
+    "url": "https://1gabba.pw/",
+    "id": "1gabba.pw",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 498,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "aboutdisco",
+    "url": "https://aboutdiscowithlove.blogspot.com/",
+    "id": "aboutdiscowithlove.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 529,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Adtunes",
+    "url": "https://adtunes.com/",
+    "id": "adtunes.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 601,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "AMP3",
+    "url": "https://amp3.cc/",
+    "id": "amp3.cc",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 385,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "AMV",
+    "url": "https://www.animemusicvideos.org/",
+    "id": "animemusicvideos.org",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 606,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "AnimeDex Music",
+    "url": "https://animedex.fun/music",
+    "id": "animedex.fun",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 604,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "AnimeThemes",
+    "url": "https://animethemes.moe/",
+    "id": "animethemes.moe",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 604,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "AniPlaylist",
+    "url": "https://aniplaylist.com/",
+    "id": "aniplaylist.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 603,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Archeophone",
+    "url": "https://www.archeophone.org/html/languages/en/index.en.html",
+    "id": "archeophone.org",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 92,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Arcod",
+    "url": "https://player.arcod.xyz/",
+    "id": "player.arcod.xyz",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 40,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ArtistGrid",
+    "url": "https://artistgrid.cx/",
+    "id": "artistgrid.cx",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 33,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ArtScene",
+    "url": "http://artscene.textfiles.com/music/midi/",
+    "id": "artscene.textfiles.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 482,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "AudioFetcher",
+    "url": "https://audiofetcher.com/",
+    "id": "audiofetcher.com",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 387,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Audiomack",
+    "url": "https://audiomack.com/",
+    "id": "audiomack.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 36,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "AudionautiX",
+    "url": "https://audionautix.com/",
+    "id": "audionautix.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 53,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Audius",
+    "url": "https://audius.co/",
+    "id": "audius.co",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 52,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Ballsack TV",
+    "url": "https://bsky.app/profile/feed.ballsack.tv",
+    "id": "bsky.app",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 46,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "BassBlog",
+    "url": "https://bassblog.pro/",
+    "id": "bassblog.pro",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 122,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "BenSound",
+    "url": "https://www.bensound.com/",
+    "id": "bensound.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 577,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Bootleg.fm",
+    "url": "https://bootleg.fm/",
+    "id": "bootleg.fm",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 102,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "bt.etree",
+    "url": "https://bt.etree.org/",
+    "id": "bt.etree.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 101,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Cadenza",
+    "url": "http://www.cadenza.org/",
+    "id": "cadenza.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 128,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "CannaPower",
+    "url": "https://canna-power.to",
+    "id": "canna-power.to",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 475,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ccMixter",
+    "url": "https://ccmixter.org/",
+    "id": "ccmixter.org",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 460,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Certified Mixtapez",
+    "url": "https://www.certifiedmixtapez.com/",
+    "id": "certifiedmixtapez.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 493,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Chip Player JS",
+    "url": "https://chiptune.app/",
+    "id": "chiptune.app",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 634,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Chosic",
+    "url": "https://www.chosic.com/free-music/all/",
+    "id": "chosic.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 583,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "chucrute com quiabo",
+    "url": "https://rabanetecomquiabo.blogspot.com/",
+    "id": "rabanetecomquiabo.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 533,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Cirrus Retro",
+    "url": "https://cirrusretro.com/",
+    "id": "cirrusretro.com",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 635,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "The read operation timed out"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Classical Music Only",
+    "url": "https://classicalmusiconly.com/",
+    "id": "classicalmusiconly.com",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 68,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "CLPGS",
+    "url": "https://www.clpgs.org.uk/",
+    "id": "clpgs.org.uk",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 92,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "cobalt",
+    "url": "https://cobalt.tools/",
+    "id": "cobalt.tools",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 391,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DatPiff",
+    "url": "https://datpiff.com/",
+    "id": "datpiff.com",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 62,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "[Errno 11001] getaddrinfo failed"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Deezer",
+    "url": "https://www.deezer.com/",
+    "id": "deezer.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 35,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DigLib",
+    "url": "https://diglib.library.vanderbilt.edu/ama-browse.pl",
+    "id": "diglib.library.vanderbilt.edu",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 90,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DimeADozen",
+    "url": "http://www.dimeadozen.org/",
+    "id": "dimeadozen.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 111,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Discografias Completas",
+    "url": "https://www.discografiascompletas.com/",
+    "id": "discografiascompletas.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 469,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "DMO",
+    "url": "https://dance-music.org/",
+    "id": "dance-music.org",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 64,
+    "sections": [
+      "Genre Specific Streaming",
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ElectronicFresh",
+    "url": "https://electronicfresh.com/",
+    "id": "electronicfresh.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 505,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ELEKTROBEATS",
+    "url": "https://elektrobeats.org/",
+    "id": "elektrobeats.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 500,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "etreedb",
+    "url": "https://etreedb.org/",
+    "id": "etreedb.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 115,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "exotica",
+    "url": "https://www.exotica.org.uk/",
+    "id": "exotica.org.uk",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 633,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "EzConv",
+    "url": "https://ezconv.cc/",
+    "id": "ezconv.cc",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 386,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Ezhevika",
+    "url": "https://ezhevika.blogspot.com/",
+    "id": "ezhevika.blogspot.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 464,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "F.P.F.T.P.",
+    "url": "https://fpftp.blogspot.com/",
+    "id": "fpftp.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 523,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FindYourFest",
+    "url": "https://www.findyourfest.com/",
+    "id": "findyourfest.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 127,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "FirstSounds",
+    "url": "https://www.firstsounds.org/",
+    "id": "firstsounds.org",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 93,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Free Music Archive",
+    "url": "https://freemusicarchive.org/",
+    "id": "freemusicarchive.org",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 66,
+    "sections": [
+      "Genre Specific Streaming",
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Free to Use",
+    "url": "https://freetouse.com/music",
+    "id": "freetouse.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 582,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "FreeMP3Cloud",
+    "url": "https://freemp3cloud.com/",
+    "id": "freemp3cloud.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 478,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Fugue",
+    "url": "https://icons8.com/music",
+    "id": "icons8.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 582,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Gabber",
+    "url": "https://gabber.od.ua/",
+    "id": "gabber.od.ua",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 499,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Geocities MIDIs",
+    "url": "https://www.midicities.com/GeoCities",
+    "id": "midicities.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 482,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "GlobalDJMix",
+    "url": "https://globaldjmix.com/",
+    "id": "globaldjmix.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 510,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Grime Archive",
+    "url": "https://www.grimearchive.org/",
+    "id": "grimearchive.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 512,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Guitars101",
+    "url": "https://www.guitars101.com/",
+    "id": "guitars101.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 112,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "The read operation timed out"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "hate5six",
+    "url": "https://hate5six.com/",
+    "id": "hate5six.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 103,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Hayasaka",
+    "url": "https://hayasaka.vercel.app/",
+    "id": "hayasaka.vercel.app",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 43,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "HeavyMetalRarities",
+    "url": "https://heavymetalrarities.com/",
+    "id": "heavymetalrarities.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 521,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "HVSC",
+    "url": "https://www.hvsc.c64.org/",
+    "id": "hvsc.c64.org",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 622,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "i78s",
+    "url": "https://i78s.org/",
+    "id": "i78s.org",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 92,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "In The Fog",
+    "url": "https://in-the-fog.ru/",
+    "id": "in-the-fog.ru",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 519,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Incompetech Music",
+    "url": "https://incompetech.com/music/royalty-free/music.html",
+    "id": "incompetech.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 588,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "inconstant sol",
+    "url": "https://inconstantsol.blogspot.com/",
+    "id": "inconstantsol.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 535,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Instances",
+    "url": "https://maid.zone/soundcloak/instances.html",
+    "id": "maid.zone",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 32,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Internet Checkpoint",
+    "url": "https://internetcheckpoint.page/",
+    "id": "internetcheckpoint.page",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 608,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "JamBase",
+    "url": "https://www.jambase.com/videos",
+    "id": "jambase.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 109,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Jamendo",
+    "url": "https://www.jamendo.com/",
+    "id": "jamendo.com",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 66,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Jango",
+    "url": "https://jango.com/",
+    "id": "jango.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 38,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "jiosaavn",
+    "url": "https://www.jiosaavn.com/",
+    "id": "jiosaavn.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 43,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "joshw",
+    "url": "https://pc.joshw.info/",
+    "id": "pc.joshw.info",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 599,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "joshwoodward",
+    "url": "https://www.joshwoodward.com/",
+    "id": "joshwoodward.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 589,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Kara.moe",
+    "url": "https://kara.moe/",
+    "id": "kara.moe",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 604,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "KDramaOST",
+    "url": "https://kdramaost.com/en/",
+    "id": "kdramaost.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 602,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Keygen Music",
+    "url": "https://keygenmusic.tk/",
+    "id": "keygenmusic.tk",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 67,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Kiddie Records",
+    "url": "http://www.kiddierecords.com/",
+    "id": "kiddierecords.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 543,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "KPopMusicDownload",
+    "url": "https://kpopdownloadscmm.blogspot.com/",
+    "id": "kpopdownloadscmm.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 528,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "LEAKED",
+    "url": "https://leaked.cx/",
+    "id": "leaked.cx",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 470,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Lidarr",
+    "url": "https://lidarr.audio/",
+    "id": "lidarr.audio",
+    "section": "Audio Torrenting",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 557,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "LiveBootlegConcert",
+    "url": "https://livebootlegconcert.blogspot.com/",
+    "id": "livebootlegconcert.blogspot.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 117,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "LOA2K",
+    "url": "https://loa2k.neocities.org/",
+    "id": "loa2k.neocities.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 513,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Lossless Legs",
+    "url": "https://www.shnflac.net/",
+    "id": "shnflac.net",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 114,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Lost Songs",
+    "url": "https://lostsongshc.blogspot.com/",
+    "id": "lostsongshc.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 525,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "LostMyspace",
+    "url": "http://lostmyspace.com/",
+    "id": "lostmyspace.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 54,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "madrotter-treasure-hunt",
+    "url": "https://madrotter-treasure-hunt.blogspot.com/",
+    "id": "madrotter-treasure-hunt.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 538,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Matthew C. Wright",
+    "url": "https://matthewcwright.com/",
+    "id": "matthewcwright.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 586,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Measuring Polyphony",
+    "url": "https://measuringpolyphony.org/",
+    "id": "measuringpolyphony.org",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 95,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MeetingInMusic",
+    "url": "https://meetinginmusic.blogspot.com/",
+    "id": "meetinginmusic.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 533,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Mirlo",
+    "url": "https://mirlo.space/",
+    "id": "mirlo.space",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 50,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MiroPPB",
+    "url": "https://miroppb.com/",
+    "id": "miroppb.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 105,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MixesDB",
+    "url": "https://www.mixesdb.com/",
+    "id": "mixesdb.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 120,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "The read operation timed out"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MixtapeMonkey",
+    "url": "https://mixtapemonkey.com/",
+    "id": "mixtapemonkey.com",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 63,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MixtapeTorrent",
+    "url": "http://www.mixtapetorrent.com/",
+    "id": "mixtapetorrent.com",
+    "section": "Audio Torrenting",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 563,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "MTV REWIND",
+    "url": "https://wantmymtv.xyz/",
+    "id": "wantmymtv.xyz",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 44,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MTV REWIND · wantmymtv.vercel.app",
+    "url": "https://wantmymtv.vercel.app/",
+    "id": "wantmymtv.vercel.app",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 44,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MuseBootlegs",
+    "url": "https://www.musebootlegs.com/",
+    "id": "musebootlegs.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 116,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "MusicDex",
+    "url": "https://musicdex.org/",
+    "id": "musicdex.org",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 603,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "musify",
+    "url": "https://musify.club/",
+    "id": "musify.club",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 459,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Musopen",
+    "url": "https://musopen.org/music/",
+    "id": "musopen.org",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 68,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Mydora",
+    "url": "https://mydora.restorativland.org/",
+    "id": "mydora.restorativland.org",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 54,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "NCS",
+    "url": "https://ncs.io/",
+    "id": "ncs.io",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 574,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 419: unknown status"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "New Age Music",
+    "url": "https://newage.one/",
+    "id": "newage.one",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 69,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "New Album Releases",
+    "url": "https://newalbumreleases.net/",
+    "id": "newalbumreleases.net",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 472,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Newgrounds Audio",
+    "url": "https://www.newgrounds.com/audio",
+    "id": "newgrounds.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 51,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "NSF j",
+    "url": "https://nsf.nesbbs.com/",
+    "id": "nsf.nesbbs.com",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 621,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Nu Guide",
+    "url": "https://nuvaporwave.neocities.org/mirrors.html",
+    "id": "nuvaporwave.neocities.org",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 513,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Openwhyd",
+    "url": "https://openwhyd.org/",
+    "id": "openwhyd.org",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 55,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "OperaOnVideo",
+    "url": "https://www.operaonvideo.com/",
+    "id": "operaonvideo.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 107,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 503: Service Unavailable"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "OperaVision",
+    "url": "https://operavision.eu/",
+    "id": "operavision.eu",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 107,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "OtakuOst",
+    "url": "https://otakuost.net/",
+    "id": "otakuost.net",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 605,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Pandora",
+    "url": "https://www.pandora.com/",
+    "id": "pandora.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 37,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Phish.in",
+    "url": "https://phish.in/",
+    "id": "phish.in",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 135,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Pixabay Music",
+    "url": "https://pixabay.com/music/",
+    "id": "pixabay.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 581,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "PreDB.eu",
+    "url": "https://predb.eu",
+    "id": "predb.eu",
+    "section": "Audio Torrenting",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 568,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "punk.cat",
+    "url": "https://punkcata.blogspot.com/",
+    "id": "punkcata.blogspot.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 462,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "purple-planet",
+    "url": "https://www.purple-planet.com/",
+    "id": "purple-planet.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 587,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Rap War",
+    "url": "https://rap-war-fam.blogspot.com/",
+    "id": "rap-war-fam.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 491,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "RATM.live",
+    "url": "https://ratm.live/",
+    "id": "ratm.live",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 132,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Relisten",
+    "url": "https://relisten.net/",
+    "id": "relisten.net",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 110,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "RenovationRecords",
+    "url": "https://renovatiorecords.blogspot.com/",
+    "id": "renovatiorecords.blogspot.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 600,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "RetroTracks",
+    "url": "https://retro.sx/",
+    "id": "retro.sx",
+    "section": "Game Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 617,
+    "sections": [
+      "Game Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "RHCPLiveArchive",
+    "url": "https://www.rhcplivearchive.com/",
+    "id": "rhcplivearchive.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 133,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "RockDownload",
+    "url": "https://www.rockdownload.org/",
+    "id": "rockdownload.org",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 461,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Russian Records",
+    "url": "https://www.russian-records.com/",
+    "id": "russian-records.com",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 94,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "saavn-dl",
+    "url": "https://saavn-dl.pages.dev",
+    "id": "saavn-dl.pages.dev",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 393,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Sitting on Clouds",
+    "url": "https://www.sittingonclouds.net/",
+    "id": "sittingonclouds.net",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 598,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Sitting on Clouds · sittingonclouds.com",
+    "url": "https://sittingonclouds.com/",
+    "id": "sittingonclouds.com",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 598,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "SongKick",
+    "url": "https://www.songkick.com/",
+    "id": "songkick.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 127,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Sophie's Floorboard",
+    "url": "https://sophiesfloorboard.blogspot.com/",
+    "id": "sophiesfloorboard.blogspot.com",
+    "section": "Genre Specific Ripping",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 524,
+    "sections": [
+      "Genre Specific Ripping"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error _ssl.c:993: The handshake operation timed out>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "SoundClick",
+    "url": "https://www.soundclick.com/default.cfm",
+    "id": "soundclick.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 39,
+    "sections": [
+      "Streaming Sites",
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "soundcloak",
+    "url": "https://sc.maid.zone/",
+    "id": "sc.maid.zone",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 32,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "SoundCloud",
+    "url": "https://soundcloud.com/",
+    "id": "soundcloud.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 32,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Spotify",
+    "url": "https://open.spotify.com/",
+    "id": "open.spotify.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 34,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Spotisaver",
+    "url": "https://spotisaver.net/",
+    "id": "spotisaver.net",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 388,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Squidify",
+    "url": "https://www.squidify.org",
+    "id": "squidify.org",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 597,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Squidify · squidify.net",
+    "url": "https://www.squidify.net/",
+    "id": "squidify.net",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 597,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)>"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Tancpol",
+    "url": "https://tancpol.net/",
+    "id": "tancpol.net",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 42,
+    "sections": [
+      "Streaming Sites",
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Tasso Music",
+    "url": "https://www.tassomusic.org/",
+    "id": "tassomusic.org",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 91,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TestPressing",
+    "url": "https://www.testpressing.org/",
+    "id": "testpressing.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 123,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "The Urban Emporium",
+    "url": "https://www.youtube.com/@theurbanemporium204/playlists",
+    "id": "youtube.com",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 61,
+    "sections": [
+      "Genre Specific Streaming",
+      "Specialty Streaming",
+      "Concerts / Live Shows",
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TheMixingBowl",
+    "url": "https://themixingbowl.org/",
+    "id": "themixingbowl.org",
+    "section": "Audio Torrenting",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 560,
+    "sections": [
+      "Audio Torrenting"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "TheTradersDen",
+    "url": "http://www.thetradersden.org/",
+    "id": "thetradersden.org",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 113,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Tinfoil",
+    "url": "https://www.tinfoil.com/",
+    "id": "tinfoil.com",
+    "section": "Specialty Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 92,
+    "sections": [
+      "Specialty Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "ToolDriveProject",
+    "url": "https://tooldriveproject.net/",
+    "id": "tooldriveproject.net",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 131,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Tricotism",
+    "url": "https://www.tricotism.com/",
+    "id": "tricotism.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 482,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "tunetank",
+    "url": "https://tunetank.com/",
+    "id": "tunetank.com",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 585,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "UppBeat",
+    "url": "https://uppbeat.io/",
+    "id": "uppbeat.io",
+    "section": "Royalty Free Music",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 576,
+    "sections": [
+      "Royalty Free Music"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 429: Too Many Requests"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "Vapor Archive",
+    "url": "https://vaporarchive.neocities.org/",
+    "id": "vaporarchive.neocities.org",
+    "section": "Genre Specific Streaming",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 65,
+    "sections": [
+      "Genre Specific Streaming"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "vdwn.cloud",
+    "url": "https://vdwn.cloud/",
+    "id": "vdwn.cloud",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 384,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "VersusMedia",
+    "url": "https://watch.versusmedia.com/music-channel",
+    "id": "watch.versusmedia.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 47,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "VGMdb",
+    "url": "https://vgmdb.net/",
+    "id": "vgmdb.net",
+    "section": "Media Soundtracks",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 603,
+    "sections": [
+      "Media Soundtracks"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.275715+00:00"
+  },
+  {
+    "name": "VGMusic",
+    "url": "https://www.vgmusic.com/",
+    "id": "vgmusic.com",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 482,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "WorldConcertHall",
+    "url": "https://www.worldconcerthall.com/en/schedule-list/",
+    "id": "worldconcerthall.com",
+    "section": "Concerts / Live Shows",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 130,
+    "sections": [
+      "Concerts / Live Shows"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "xprm",
+    "url": "https://xprm.net/",
+    "id": "xprm.net",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 480,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 403: Forbidden"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "YouTube Music",
+    "url": "https://music.youtube.com/",
+    "id": "music.youtube.com",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 30,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "Ytify",
+    "url": "https://ytify.pp.ua/",
+    "id": "ytify.pp.ua",
+    "section": "Streaming Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 30,
+    "sections": [
+      "Streaming Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "YTiz",
+    "url": "https://ytiz.xyz/",
+    "id": "ytiz.xyz",
+    "section": "Audio Ripping Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 389,
+    "sections": [
+      "Audio Ripping Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "z3.fm",
+    "url": "https://z3.fm/",
+    "id": "z3.fm",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 467,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "HTTP Error 502: Bad Gateway"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  },
+  {
+    "name": "zvu4no",
+    "url": "https://zvu4it.org/",
+    "id": "zvu4it.org",
+    "section": "Download Sites",
+    "flac": false,
+    "disposition": "candidate",
+    "reason": "",
+    "line": 479,
+    "sections": [
+      "Download Sites"
+    ],
+    "adapter": "html",
+    "enabled": false,
+    "check": {
+      "status": "unavailable",
+      "message": "Автопоиск недоступен: не найдена форма поиска; откройте сайт вручную"
+    },
+    "checkedAt": "2026-09-06T18:17:46.274209+00:00"
+  }
+]
